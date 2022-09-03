@@ -10,6 +10,26 @@ This setup includes:
 - [Vue Router](https://router.vuejs.org/)
 - [Pinia State Manager](https://pinia.vuejs.org/)
 
+## Getting started
+
+Clone the project
+
+```bash
+  git clone https://github.com/dj0nny/vue-vite-starter.git
+```
+
+Install the dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
